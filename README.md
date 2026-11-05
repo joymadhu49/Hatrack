@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/icon.png" width="112" alt="Hatrack icon">
+  <img src="docs/logo.png" width="112" alt="Hatrack icon">
 </p>
 
 <h1 align="center">Hatrack</h1>
