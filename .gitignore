@@ -1,0 +1,20 @@
+# Build output
+build/
+*.app
+*.dSYM
+Hatrack-arm64
+Hatrack-x86_64
+
+# Icon render intermediates
+*.iconset/
+
+# Xcode / SwiftPM, if someone opens the sources in an IDE
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
